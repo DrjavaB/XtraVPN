@@ -1,0 +1,242 @@
+.internet-sec {
+	margin-top:          10vw;
+	padding-bottom:      8rem;
+	background-image:    url(../img/internetBG.svg);
+	background-position: center;
+	background-repeat:   no-repeat;
+	background-size:     cover;
+}
+
+.internet-box {
+	width:    70%;
+	left:     15%;
+	position: relative;
+}
+
+.internet-heading {
+	font-size:   2.4rem;
+	font-weight: bold;
+	margin:      6rem 0 2rem 0;
+}
+
+.internet-box-heading {
+	font-size:   1.8rem;
+	font-weight: bold;
+}
+
+
+.internet-heading-img {
+	display:  inline-block;
+	position: absolute;
+	right:    -5rem;
+	top:      -1rem;
+}
+
+.internet-heading-img img {
+	width: 60px;
+}
+
+.internet-info-box {
+	margin-top: 8rem;
+	height:     13vw;
+}
+
+.internet-content {
+	direction: rtl;
+}
+
+.internet-content > div {
+	position: relative;
+}
+
+.internet-brand-box {
+	height: 100%;
+}
+
+.internet-brand {
+	position: relative;
+	height:   80%;
+	top:      -30px;
+	left:     -20%;
+	width:    360px;
+}
+
+@media screen and (max-width: 575px) {
+	.internet-heading {
+		font-size: 5vw;
+		margin:    4rem 0 2rem 0;
+	}
+	
+	.internet-heading-img {
+		right: -46px;
+		top:   -6px;
+	}
+	
+	.internet-info-box:first-child {
+		margin-top: 4rem !important;
+	}
+	
+	.internet-heading-img img {
+		width: 35px;
+	}
+	
+	.internet-sec {
+		margin-top: 20vw;
+	}
+	
+	.internet-content {
+		margin-top: -4rem;
+	}
+	
+	.internet-info-box {
+		margin-top: 8rem;
+		height:     unset;
+	}
+	
+	.internet-brand {
+		width: 50vw;
+		left:  -2%;
+	}
+	
+	.internet-brand-box {
+		display:         flex;
+		justify-content: center;
+	}
+	
+	.internet-box-heading {
+		font-size: 1.6rem;
+	}
+	
+	.internet-content p {
+		font-size: 0.9rem;
+	}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.internet-sec {
+		margin-top: 20vw;
+	}
+	
+	.internet-content {
+		margin-top: -13rem;
+		padding:    4rem;
+	}
+	
+	.internet-info-box {
+		margin-top: 8rem;
+		height:     unset;
+	}
+	
+	.internet-brand {
+		width: 50vw;
+		left:  -2%;
+	}
+	
+	.internet-brand-box {
+		display:         flex;
+		justify-content: center;
+	}
+	
+	.internet-heading {
+		font-size: 1.6rem;
+	}
+	
+	.internet-box-heading {
+		font-size: 1.6rem;
+	}
+	
+	.internet-content p {
+		font-size: 0.9rem;
+	}
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.internet-sec {
+		padding-bottom: 10rem;
+		margin-top:     12vw;
+	}
+	
+	.internet-heading {
+		font-size: 2.8rem;
+	}
+	
+	.internet-heading-img img {
+		width: 45px;
+	}
+	
+	.internet-box {
+		width: 75%;
+		left:  7%;
+	}
+	
+	.internet-info-box:first-child {
+		margin-top: 5rem;
+	}
+	
+	.internet-brand {
+		width:  240px;
+		height: 100%;
+		top:    0;
+		left:   unset;
+	}
+	
+	.internet-heading {
+		font-size: 2rem;
+	}
+	
+	.internet-box-heading {
+		font-size: 1.4rem;
+	}
+	
+	.internet-content p {
+		font-size: 0.8rem;
+	}
+	
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.internet-sec {
+		margin-top:     12vw;
+		padding-bottom: 10rem;
+	}
+	
+	.internet-box-heading {
+		font-size: 1.5rem;
+	}
+	
+	.internet-content p {
+		font-size: 0.9rem;
+	}
+	
+	.internet-sec {
+		padding-bottom: 10rem;
+		margin-top:     12vw;
+	}
+	
+	.internet-heading-img img {
+		width: 45px;
+	}
+	
+	.internet-box {
+		width: 75%;
+		left:  7%;
+	}
+	
+	.internet-info-box:first-child {
+		margin-top: 5rem;
+	}
+	
+	.internet-brand {
+		width:  280px;
+		height: 100%;
+		top:    -25px;
+		left:   unset;
+	}
+	
+	.internet-heading {
+		font-size: 2rem;
+	}
+	
+	
+}

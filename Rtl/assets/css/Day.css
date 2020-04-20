@@ -1,0 +1,79 @@
+.day-sec{
+	height: 128vw;
+}
+.day-box {
+	height: 100%;
+}
+
+.day-heading {
+	position:  relative;
+	left:      12vw;
+	top:       13rem;
+	color:     #003FDE;
+	font-size: 3.4rem;
+	display: inline-block;
+}
+
+.day-img-box {
+	width: 100%;
+	height: 100%;
+}
+
+.day-img {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+
+}
+
+.day-front {
+	left: -10vw;
+	width: 140vw;
+}
+
+.day-back {
+	width: 210vw;
+	left: -65vw;
+	top: 55vw;
+}
+@media screen and (max-width: 575px) {
+	.day-sec{
+		padding-top: 3rem;
+		height: 130vw;
+	}
+	
+	.day-heading {
+		left:      12vw;
+		top:       7vw;
+		font-size: 6vw;
+	}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.day-sec{
+		padding-top: 8rem;
+		height: 136vw;
+	}
+	.day-heading {
+		left:      15vw;
+		top:       10vw;
+		font-size: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.day-heading {
+		left:      15vw;
+		top:       10vw;
+		font-size: 2.2rem;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.day-heading {
+		left:      15vw;
+		top:       10vw;
+		font-size: 3rem;
+	}
+}
+

@@ -1,0 +1,210 @@
+.lang-sec{
+	padding: 8rem 0 5rem 0;
+}
+
+.lang-box{
+	display: flex;
+	flex-direction: row-reverse;
+	width: 60%;
+	-webkit-border-radius: 3rem;
+	-moz-border-radius:    3rem;
+	border-radius:         3rem;
+	background: linear-gradient(40deg, #0141E4 , #1756F3);
+	padding: 7rem 3rem 7rem 4rem;
+}
+
+.lang-download-box{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 60%;
+}
+
+.download-btn{
+	direction: rtl;
+	box-sizing: border-box;
+	background: linear-gradient(0, #0234B0, #0234B0);
+	padding: 1rem;
+	-webkit-border-radius: 1rem;
+	-moz-border-radius:    1rem;
+	border-radius:         1rem;
+	min-width: 14rem;
+	min-height: 1rem;
+	position: relative;
+	bottom:        0;
+	transition:    all 500ms ease;
+	color: #ffffff;
+}
+.download-btn img{
+	margin-right: 6px;
+}
+.download-btn:hover{
+	background: linear-gradient(180deg, #0234B0, #023398);
+	bottom: 5px;
+	box-shadow: 0 0 10px -5px #0234B0, 0 10px 25px -15px #023398;
+	color: #ffffff;
+}
+
+.lang-heading{
+	font-size: 1.7rem;
+}
+.lang-heading-box{
+	align-items: center;
+	width: 40%;
+}
+
+@media screen and (max-width: 575px) {
+	.lang-download-box{
+		flex-direction: column-reverse;
+		width: 100%;
+		margin-top: 1rem;
+	}
+	.lang-box{
+		width: 90%;
+		padding: 20px 0px;
+		justify-content: center;
+		align-items: center;
+		border-radius: 2rem;
+	}
+	.lang-btn-appstore{
+		margin-top: 1rem;
+	}
+	.lang-btn{
+		width: 85%;
+	}
+
+	.lang-heading{
+		font-size: 3vw;
+		margin: 2vw;
+	}
+	.lang-heading-box{
+		justify-content: center;
+		width: 100%;
+	}
+	.download-btn{
+		min-width: 36vw;
+		padding: 3vw;
+		font-size: 2.5vw;
+		width: 100%;
+	}
+	.download-btn img{
+		width: 30px;
+	}
+	.lang-sec{
+		padding-bottom: 6rem;
+	}
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.lang-download-box{
+		flex-direction: column-reverse;
+		max-height: 200px;
+		width: 100%;
+	}
+	.lang-box{
+		width: 90%;
+		padding: 4rem 0;
+		justify-content: center;
+	}
+	
+	.lang-btn{
+		width: 100%;
+	}
+	.lang-heading{
+		font-size: 3.2vw;
+		margin: 1rem 0 2rem 0;
+	}
+	.lang-heading-box{
+		justify-content: center;
+		width: 52%;
+	}
+	.lang-sec{
+		padding: 5rem 0 3rem 0;
+	}
+
+	.lang-download-box {
+		width: 40%;
+		margin-top: 1rem;
+	}
+	
+	.lang-btn-appstore{
+		margin-top: 1rem;
+	}
+	.download-btn{
+		font-size: 1rem;
+		padding: 0.6rem;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.lang-box{
+		width: 85%;
+		padding: 3rem 3rem 3rem 1rem;
+	}
+	.lang-download-box{
+		flex-direction: column-reverse;
+	}
+	.lang-btn-appstore{
+		margin-top: 2rem;
+	}
+	
+	.lang-heading{
+		font-size: 1.7rem;
+	}
+	.lang-sec{
+		padding-bottom: 6rem;
+	}
+	.lang-download-box {
+	width: 42%;
+	}
+	.lang-heading-box{
+		width: 50%;
+		margin-left: 1rem;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.lang-download-box{
+		flex-direction: column-reverse;
+	}
+	.lang-box{
+		width: 85%;
+		padding: 5rem 3rem 5rem 1rem;
+	}
+	.lang-btn-appstore{
+		margin-top: 2rem;
+	}
+	.lang-btn{
+		width: 60%;
+	}
+	.lang-heading{
+		font-size: 2.5vw;
+	}
+	
+	.download-btn{
+		font-size: 1.7vw;
+	}
+	
+	.lang-sec{
+		padding-bottom: 8rem;
+	}
+	.lang-heading-box{
+		margin-left: 2rem;
+	}
+}
+
+@media screen and (min-width: 1300px) and (max-width: 1499px) {
+	.lang-box{
+		width: 75%;
+	}
+	.lang-heading-box{
+		width: 40%;
+	}
+}
+@media screen and (min-width: 1500px) and (max-width: 1700px) {
+	.lang-box{
+		width: 65%;
+	}
+	
+}

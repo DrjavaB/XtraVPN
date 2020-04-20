@@ -1,0 +1,396 @@
+.price-sec {
+	background-color: #003fde;
+	padding-bottom:   8rem;
+}
+
+.price-tbl-box {
+	width:     100%;
+}
+
+.price-tbl {
+	border-radius:    45px;
+	background-color: #0038C6;
+	margin-top:       6rem;
+	direction: rtl;
+}
+
+.price-tbl th, .price-tbl td {
+	font-size: 1.2rem;
+	direction: ltr;
+}
+
+.price-tbl td {
+	font-weight: bold;
+	border-top:  1px solid #002B98;
+}
+
+.price-tbl th {
+	text-align: center;
+	padding:    3rem 0 2rem 0;
+}
+
+.price-tbl th:first-child, tbody tr td:first-child {
+	padding-right: 3rem;
+	padding-left: 1rem;
+}
+
+.price-tbl td {
+	text-align: center;
+	padding:    1.5rem;
+}
+
+
+tbody {
+	direction: rtl;
+}
+
+tbody tr:last-child > td {
+	padding-bottom: 5rem;
+}
+
+tbody tr td:last-child > div {
+	position:   absolute;
+	width:      1px;
+	height:     40%;
+	background: #002B98;
+	left:       0;
+	top:        30%;
+}
+
+tbody tr:last-child {
+	height: 3rem;
+}
+
+tbody tr td {
+	position: relative;
+}
+
+.price-info-box {
+	display:         flex;
+	justify-content: center;
+	margin-top:      10rem;
+	height:          30vw;
+}
+
+.price-info {
+	direction:  rtl;
+	text-align: center;
+	position:   relative;
+	right:       -6rem;
+	margin-top: 3rem;
+}
+
+.price-info-img {
+	position: relative;
+	width:    45%;
+	height:   84%;
+}
+
+.price-heading {
+	font-size: 2.4vw;
+}
+
+.price-country {
+	font-size:  1.5vw;
+	margin-top: 8rem;
+}
+
+.flag-box {
+	width:    100%;
+	height:   100%;
+	overflow: hidden;
+}
+
+.world-map {
+	position: absolute;
+	width:    100%;
+	left:     0;
+	top:      0;
+}
+
+.map-icon {
+	top:       -1px;
+	right:     0;
+	z-index:   1;
+	width:     6%;
+	transform: scale(1.1);
+}
+
+.map-bg {
+	right: 0;
+	top:   0;
+	width: 6%;
+}
+
+#ch {
+	top:   31%;
+	right: 17%;
+}
+
+#brz {
+	top:   58%;
+	right: 67%;
+}
+
+#nt {
+	top:   24%;
+	right: 48%;
+}
+
+#rus {
+	top:   14%;
+	right: 28%;
+}
+
+#usa {
+	top:   33%;
+	right: 78%;
+}
+
+@media screen and (max-width: 575px) {
+	.price-sec {
+		padding-bottom: 0rem;
+	}
+	
+	.price-sec > div {
+		overflow: auto;
+		width:    100%;
+	}
+	
+	.price-tbl-box {
+		width: 200%;
+		margin: 0 auto;
+	}
+	
+	.price-tbl {
+		width: 90%;
+	}
+	
+	.price-tbl th, .price-tbl td {
+		font-size: 1.0rem;
+		padding: 20px 10px !important;
+	}
+	.price-tbl th{
+		padding: 30px 20px 23px 20px !important;
+	}
+	.price-info-box {
+		display:         flex;
+		justify-content: center;
+		flex-direction:  column-reverse;
+		height:          140vw;
+		margin-top: 0rem;
+	}
+	
+	.price-info {
+		text-align: center;
+		position:   initial;
+		margin-top: 6rem;
+	}
+	
+	.price-info-img {
+		width:      80%;
+		right:       -10%;
+		margin-top: 5rem;
+	}
+	
+	.price-heading {
+		font-size: 7vw;
+	}
+	
+	.price-country {
+		font-size: 4.5vw;
+		margin-top: 3rem;
+	}
+	
+	.flag-box {
+		height: 45vw;
+	}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.price-sec {
+		padding-bottom: 6rem;
+	}
+	
+	.price-sec > div {
+		overflow-x: auto;
+		width:      100%;
+	}
+	
+	.price-tbl-box {
+		width:  120%;
+		margin: 0 auto;
+	}
+	
+	.price-tbl {
+		width: 90%;
+	}
+	
+	.price-tbl th, .price-tbl td {
+		font-size: 1.1rem;
+	}
+	
+	
+	.price-info-box {
+		display:         flex;
+		justify-content: center;
+		flex-direction:  column-reverse;
+		height:          110vw;
+		margin-top:      5rem;
+	}
+	
+	.price-info {
+		text-align: center;
+		position:   initial;
+	}
+	
+	.price-info-img {
+		width:      80%;
+		right:       -10%;
+		margin-top: 5rem;
+	}
+	
+	.price-info {
+		text-align: center;
+		position:   initial;
+	}
+	
+	.price-heading {
+		font-size: 2.7rem;
+	}
+	
+	.price-country {
+		font-size:  1.5rem;
+		margin-top: 5rem;
+	}
+	
+	.flag-box {
+		height: 45vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.price-sec {
+		padding-bottom: 10rem;
+	}
+	
+	.price-sec > div {
+		overflow: hidden;
+		width:    100%;
+	}
+	
+	.price-tbl-box {
+		width:  100%;
+		margin: 0 auto;
+	}
+	
+	.price-tbl {
+		width: 90%;
+	}
+	
+	.price-tbl th, .price-tbl td {
+		font-size: 1.1rem;
+	}
+	
+	.price-info-box {
+		display:         flex;
+		justify-content: center;
+		flex-direction:  column-reverse;
+		height:          100vw;
+		margin-top:      6rem;
+	}
+	
+	.price-info {
+		text-align: center;
+		position:   initial;
+	}
+	
+	.price-info-img {
+		width:      80%;
+		right:       -10%;
+		margin-top: 5rem;
+	}
+	
+	.price-heading {
+		font-size: 2.7rem;
+	}
+	
+	.price-country {
+		font-size:  1.5rem;
+		margin-top: 5rem;
+	}
+	
+	.price-tbl td {
+		padding: 1.5rem 0.8rem;
+	}
+	
+	.flag-box {
+		height: 45vw;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.price-sec {
+		padding-bottom: 12rem;
+	}
+	
+	.price-sec > div {
+		overflow: hidden;
+		width:    100%;
+	}
+	
+	.price-tbl-box {
+		width:  90%;
+		margin: 0 auto;
+	}
+	
+	.price-tbl {
+		/*width: 95%;*/
+	}
+	
+	.price-tbl th, .price-tbl td {
+		font-size: 1.3rem;
+	}
+	
+	.price-tbl td {
+		font-size: 1.3rem;
+	}
+	
+	.price-tbl th {
+		padding: 3rem 0 2rem 0;
+	}
+	
+	.price-tbl th:first-child {
+		padding-left: 3rem;
+	}
+	
+	.price-tbl td {
+		padding: 1.5rem 1.0rem;
+	}
+	
+	tbody tr td:first-child {
+		padding-left: 2rem;
+	}
+	
+	.price-info {
+		right: -4rem;
+	}
+	
+	.price-heading {
+		font-size: 2.8vw;
+	}
+	
+	.price-country {
+		font-size: 1.8vw;
+	}
+	
+	.price-info-img {
+		width: 55%;
+	}
+	
+	.flag-box {
+		height: 120%;
+	}
+	
+}
+

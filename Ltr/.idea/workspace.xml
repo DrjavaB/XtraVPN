@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOYz77y7UkfOIJdwnoptyVOdDU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ltr/index.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../Ltr/index.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\XtraVPN\assets\img" />
+      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
+      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\js" />
+      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="2d50867d-75cb-4baf-b740-a47d27c54c46" uri="http://localhost:63342/Rtl2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="" />
+      <created>1584711866852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584711866852</updated>
+      <workItem from="1584711868059" duration="4680000" />
+      <workItem from="1584718408691" duration="92000" />
+      <workItem from="1584729825322" duration="17643000" />
+      <workItem from="1584794424943" duration="1784000" />
+      <workItem from="1584801064285" duration="2062000" />
+      <workItem from="1584804254792" duration="161000" />
+      <workItem from="1584804498689" duration="24812000" />
+      <workItem from="1584876762499" duration="2212000" />
+      <workItem from="1584887019975" duration="28839000" />
+      <workItem from="1585051029541" duration="26305000" />
+      <workItem from="1585165952237" duration="18228000" />
+      <workItem from="1585234921622" duration="44008000" />
+      <workItem from="1585489689148" duration="14712000" />
+      <workItem from="1585562659780" duration="21885000" />
+      <workItem from="1585744050077" duration="4340000" />
+      <workItem from="1585750405643" duration="38000" />
+      <workItem from="1585750756698" duration="4650000" />
+      <workItem from="1585898632715" duration="3050000" />
+      <workItem from="1585916959007" duration="8950000" />
+      <workItem from="1586172379761" duration="13901000" />
+      <workItem from="1586191506949" duration="1161000" />
+      <workItem from="1586193422825" duration="10287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584718414236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584718414236" />
+  </component>
+</project>

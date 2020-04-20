@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.7" height="117.92" viewBox="70 70 150 150">
+    <defs>
+        <filter id="prefix__sheild" width="286.704" height="291.924" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="14"/>
+            <feGaussianBlur result="blur" stdDeviation="29"/>
+            <feFlood flood-color="#147aef" flood-opacity=".141"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <path id="prefix__sheild-2" d="M757.81 445.876v-11.333a12.015 12.015 0 0 1 9.438-11.734l40.725-8.939a28.846 28.846 0 0 1 12.379 0l40.723 8.939a12.016 12.016 0 0 1 9.439 11.734v11.326a94.217 94.217 0 0 1-51.969 84.214 9.768 9.768 0 0 1-8.768 0 94.216 94.216 0 0 1-51.967-84.207z" data-name="sheild" transform="translate(-670.81 -340.2)" style="fill:#fff"/>
+    </g>
+</svg>

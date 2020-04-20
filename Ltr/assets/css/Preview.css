@@ -1,0 +1,176 @@
+.preview-sec {
+	padding-bottom: 44rem;
+}
+
+.preview-sec > div {
+	height: 100%;
+}
+
+.preview-img-box {
+	right: -38rem;
+	top:  -3rem;
+}
+
+.anim-back {
+	right: 0;
+	top:  -35px;
+	transform: rotate(30deg);
+}
+
+.anim-front {
+	right: 142px;
+	top: -120px;
+	transform: rotate(30deg);
+	transform-origin: 20% 100%;
+	transition: transform 800ms ease-in-out;
+}
+.anim-front:hover{
+	transform: rotate(-10deg);
+}
+.preview-info-box {
+	top:    15rem;
+	right:   26vw;
+	height: 0;
+	
+}
+
+.preview-info {
+	font-size: 2.5rem;
+	color:     #1958F5;
+	display:   inline-block;
+}
+
+.preview-box {
+	display:         flex;
+	justify-content: center;
+}
+@media screen and (max-width: 575px) {
+	.preview-sec {
+		padding-bottom: 17rem;
+	}
+	.anim-front{
+		width: 110px;
+		right: -44px;
+		top: -12px;
+	}
+	.anim-back{
+		width: 110px;
+		right: -100px;
+		top: 20px;
+	}
+	
+	.preview-info-box {
+		margin: 4rem auto;
+		right:   0;
+	}
+	
+	.preview-info {
+		font-size: 5vw;
+	}
+	
+	.preview-box {
+		flex-direction: column;
+		align-items: center;
+	}
+	.preview-img-box {
+		right: 0;
+		top:  -4rem;
+	}
+	
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.preview-sec {
+		padding-bottom: 0;
+	}
+	.anim-front{
+		width: 140px;
+		right: 209px;
+		top: -58px;
+	}
+	.anim-back{
+		width: 140px;
+		right: 140px;
+		top: -1rem;
+	}
+	.preview-info-box{
+		top: 15rem;
+		right: 25vw;
+	}
+	.preview-info{
+		font-size: 3.4vw;
+	}
+	.preview-img-box {
+		right: -35rem;
+		margin-top: 6rem;
+		top: 0;
+	}
+	
+	.preview-box{
+		height: 420px !important;
+		top: -140px;
+		position: relative;
+		overflow-x: hidden;
+	}
+	
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.preview-sec {
+		padding-bottom: 0;
+	}
+	.preview-box{
+		height: 62vw !important;
+		top: -140px;
+		position: relative;
+		overflow-x: hidden;
+	}
+	.preview-img-box {
+		right: -35rem;
+		margin-top: 9rem;
+	}
+	.anim-front{
+		width: 180px;
+		right: 230px;
+		top: -68px;
+	}
+	.anim-back{
+		width: 180px;
+		right: 140px;
+		top: -1rem;
+	}
+	.preview-info-box{
+		top: 15rem;
+		right: 25vw;
+	}
+	.preview-info{
+		font-size: 3.4vw;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.preview-sec {
+		padding-bottom: 40rem;
+	}
+	.anim-front{
+		width: 250px;
+		right: 172px;
+		top: -90px;
+	}
+	.anim-back{
+		width: 250px;
+		right: 3rem;
+		top: -1rem;
+	}
+	.preview-info-box{
+		top: 13rem;
+		right: 25vw;
+	}
+	.preview-info{
+		font-size: 2rem;
+	}
+	.preview-img-box {
+		right: -34rem;
+	}
+}
+

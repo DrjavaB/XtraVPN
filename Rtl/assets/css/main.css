@@ -1,0 +1,84 @@
+:root {
+	scroll-behavior: smooth;
+}
+
+*, *:after, *:before {
+	margin:  0;
+	padding: 0;
+}
+
+body {
+	background-color: #fafcff1a;
+	overflow-x: hidden;
+}
+
+@font-face {
+	font-family: 'shabnam';
+	src:         url(fonts/Shabnam.eot);
+	src:         url(fonts/Shabnam.eot) format('embedded-opentype'),
+	             url(fonts/Shabnam.woff2) format('woff2'),
+	             url(fonts/Shabnam.woff) format('woff'),
+	             url(fonts/Shabnam.ttf) format('truetype');
+	font-weight: normal;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'shabnam bold';
+	src:         url(fonts/Shabnam-Bold.eot);
+	src:         url(fonts/Shabnam-Bold.eot) format('embedded-opentype'),
+	             url(fonts/Shabnam-Bold.woff2) format('woff2'),
+	             url(fonts/Shabnam-Bold.woff) format('woff'),
+	             url(fonts/Shabnam-Bold.ttf) format('truetype');
+	font-weight: bold;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'shabnam light';
+	src:         url(fonts/Shabnam-Light.eot);
+	src:         url(fonts/Shabnam-Light.eot) format('embedded-opentype'),
+	             url(fonts/Shabnam-Light.woff2) format('woff2'),
+	             url(fonts/Shabnam-Light.woff) format('woff'),
+	             url(fonts/Shabnam-Light.ttf) format('truetype');
+	font-weight: 200;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'shabnam thin';
+	src:         url(fonts/Shabnam-Thin.eot);
+	src:         url(fonts/Shabnam-Thin.eot) format('embedded-opentype'),
+	             url(fonts/Shabnam-Thin.woff2) format('woff2'),
+	             url(fonts/Shabnam-Thin.woff) format('woff'),
+	             url(fonts/Shabnam-Thin.ttf) format('truetype');
+	font-weight: 100;
+	font-style:  normal;
+}
+
+a, p, div, span, body, h1, h2, h3, h4, h5, h6, ol, ul, li, table, tbody, thead, td, tr, th, br, button, textarea, input, select {
+	font-family: "shabnam", "tahoma";
+}
+
+.shabnam-regular {
+	font-weight: normal !important;
+}
+
+.shabnam-bold {
+	font-weight: bold !important;
+}
+
+.shabnam-light {
+	font-weight: 200 !important;
+}
+
+.shabnam-thin {
+	font-weight: 100 !important;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.d-right{
+	direction: rtl !important;
+}

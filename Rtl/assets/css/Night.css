@@ -1,0 +1,81 @@
+.night-sec {
+	height: 121vw;
+}
+
+.night-box {
+	height: 100%;
+}
+
+.night-heading {
+	position:  relative;
+	right:     12vw;
+	top:       7rem;
+	color:     #003FDE;
+	font-size: 3.4rem;
+	display:   inline-block;
+}
+
+.night-img-box {
+	width:  100%;
+	height: 100%;
+}
+
+.night-img {
+	overflow: hidden;
+	width:    100%;
+	height:   100%;
+	
+}
+
+.night-front {
+	left:  -28vw;
+	width: 140vw;
+}
+
+.night-back {
+	width: 210vw;
+	left:  -65vw;
+	top:   45vw;
+}
+
+@media screen and (max-width: 575px) {
+	.night-heading {
+		right:     12vw;
+		top:       4vw;
+		font-size: 6vw;
+	}
+	.night-sec{
+		height: 118vw;
+		margin-top: 3rem;
+	}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	.night-heading {
+		right:     12vw;
+		top:       6vw;
+		font-size: 2.4rem;
+	}
+	.night-sec{
+		margin-top: 5rem;
+		height: 120vw;
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.night-heading {
+		right: 12vw;
+		top:   6vw;
+		font-size: 3rem;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+	.night-heading {
+		right:     15vw;
+		top:       8vw;
+		font-size: 3rem;
+	}
+}
+
