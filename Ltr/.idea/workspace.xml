@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/blog-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rtl/Blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rtl/assets/css/Blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/blog-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Swiper.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rtl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/Blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Swiper.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Swiper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/img/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/img/favicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +121,7 @@
       <workItem from="1586193422825" duration="10287000" />
       <workItem from="1587373362590" duration="14609000" />
       <workItem from="1587454123806" duration="542000" />
+      <workItem from="1587456282879" duration="301000" />
     </task>
     <servers />
   </component>

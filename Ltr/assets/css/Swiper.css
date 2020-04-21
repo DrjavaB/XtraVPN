@@ -27,7 +27,9 @@
 	border-radius: 35px;
 	width:         86%;
 }
-
+.owl-carousel .item a{
+	color: black;
+}
 .owl-carousel .item:hover {
 	box-shadow: 0 0 30px #ddd;
 	cursor:     pointer;
@@ -96,4 +98,8 @@ button.active span{
 	background-color: #1958F5 !important;
 	width: 35px !important;
 	transition: width 400ms ease-in-out;
+}
+
+.owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled {
+	display: block !important;
 }

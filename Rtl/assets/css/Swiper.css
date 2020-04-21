@@ -33,7 +33,9 @@
 	cursor:     pointer;
 	transition: all 200ms ease-out;
 }
-
+.owl-carousel .item a{
+	color: black;
+}
 .owl-carousel .item:not(:hover) {
 	box-shadow: 0 0 0 #ddd;
 	transition: all 200ms ease-out;
@@ -100,4 +102,7 @@ button.active span {
 	background-color: #1958F5 !important;
 	width:            35px !important;
 	transition:       width 400ms ease-in-out;
+}
+.owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled {
+	display: block !important;
 }
