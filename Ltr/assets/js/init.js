@@ -1,14 +1,13 @@
 $(document).ready(function () {
 	AOS.init();
 	$(".owl-carousel").owlCarousel({
-		// margin:10,
 		nav:                true,
+		dots:               true,
 		autoplay:           true,
 		autoplayTimeout:    5000,
 		autoplayHoverPause: true,
 		loop:               true,
 		slideTransition:    'ease-in-out',
-		dots:               true,
 		responsive:         {
 			0:    {
 				items:    1,
