@@ -2,47 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Ltr/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/Swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ltr/assets/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/swiper/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/swiper/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/swiper/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ltr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ltr/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/css/Components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ltr/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ltr/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ltr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/blog-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/blog-bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -96,10 +61,17 @@
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="2d50867d-75cb-4baf-b740-a47d27c54c46" uri="http://localhost:63342/Rtl/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.blog">
+    <configuration name="blog" type="JavascriptDebugType" uri="http://localhost:63342/Rtl/Blog.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Rtl/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.blog" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
@@ -135,7 +107,7 @@
       <workItem from="1585750756698" duration="4650000" />
       <workItem from="1585898632715" duration="3050000" />
       <workItem from="1585916959007" duration="8950000" />
-      <workItem from="1587449163954" duration="2042000" />
+      <workItem from="1587449163954" duration="4705000" />
     </task>
     <servers />
   </component>
@@ -146,9 +118,61 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587452439421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587452439421" />
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584718414236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584718414236" />
+    <state width="1579" height="348" key="GridCell.Tab.0.bottom" timestamp="1587454060806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060806" />
+    <state width="1579" height="348" key="GridCell.Tab.0.center" timestamp="1587454060806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060806" />
+    <state width="1579" height="348" key="GridCell.Tab.0.left" timestamp="1587454060806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060806" />
+    <state width="1579" height="348" key="GridCell.Tab.0.right" timestamp="1587454060806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060806" />
+    <state width="1579" height="348" key="GridCell.Tab.1.bottom" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.1.center" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.1.left" timestamp="1587454060806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060806" />
+    <state width="1579" height="348" key="GridCell.Tab.1.right" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.2.bottom" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.2.center" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.2.left" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
+    <state width="1579" height="348" key="GridCell.Tab.2.right" timestamp="1587454060807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454060807" />
   </component>
 </project>
