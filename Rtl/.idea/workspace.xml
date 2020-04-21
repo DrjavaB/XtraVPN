@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ltr/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/Swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/css/owl/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/img/swiper/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ltr/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ltr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ltr/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ltr/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ltr/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ltr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Ltr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,15 +61,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZOYz77y7UkfOIJdwnoptyVOdDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -49,18 +95,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="2d50867d-75cb-4baf-b740-a47d27c54c46" uri="http://localhost:63342/Rtl/index.html" useBuiltInWebServerPort="true">
@@ -101,11 +135,15 @@
       <workItem from="1585750756698" duration="4650000" />
       <workItem from="1585898632715" duration="3050000" />
       <workItem from="1585916959007" duration="8950000" />
+      <workItem from="1587449163954" duration="2042000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584718414236">

@@ -1,4 +1,37 @@
 $(document).ready(function () {
+	AOS.init();
+	$(".owl-carousel").owlCarousel({
+		// margin:10,
+		nav:                true,
+		autoplay:           true,
+		autoplayTimeout:    5000,
+		autoplayHoverPause: true,
+		loop:               true,
+		slideTransition:    'ease-in-out',
+		dots:               true,
+		responsive:         {
+			0:    {
+				items:    1,
+				dotsEach: 1,
+			},
+			576:  {
+				items:    1,
+				dotsEach: 1,
+			},
+			768:  {
+				items:    2,
+				dotsEach: 2,
+			},
+			992:  {
+				items:    2,
+				dotsEach: 2,
+			},
+			1200: {
+				items:    3,
+				dotsEach: 3,
+			}
+		}
+	});
 	var x = 0;
 	$("#menu").click(function () {
 		if (x === 0) {
@@ -17,15 +50,15 @@ $(document).ready(function () {
 	});
 	
 	$(window).resize(function () {
-		if (window.innerWidth >= 768){
+		if (window.innerWidth >= 768) {
 			$("#navlist").css({bottom: '0'});
 			$("#navbar").css({height: '80px'});
-		}
-		else {
+		} else {
 			$("#navlist").css({bottom: '300%'});
 			$("#navbar").css({height: '70px'});
 		}
 	});
+	$('#preloader').hide();
 });
 
 function expand() {

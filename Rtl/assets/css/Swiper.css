@@ -10,12 +10,12 @@
 }
 
 .owl-stage-outer {
-	height:  30rem;
-	padding-left: 20px;
-	display: flex;
-	flex-direction: column;
+	height:          30rem;
+	padding-left:    20px;
+	display:         flex;
+	flex-direction:  column;
 	justify-content: center;
-
+	
 }
 
 .swiper-box img {
@@ -44,27 +44,32 @@
 	height:     250px;
 	overflow:   hidden;
 	margin-top: 1rem;
-	
+	border-bottom: 10px inset #ffffff;
+	border-radius: 35px;
 }
+
 .owl-carousel .item div h3 {
-	font-size: 1.4rem;
+	font-size:  1.4rem;
+	text-align: right;
 }
+
 .owl-carousel .item div p {
 	text-align: justify;
-	font-size: 0.9rem;
+	font-size:  0.9rem;
 }
 
 .owl-next, .owl-prev {
-	position: absolute;
-	bottom:   270px;
+	position:         absolute;
+	bottom:           270px;
+	background-color: transparent !important;
 }
 
 .owl-prev {
-	left: -80px;
+	right: -80px;
 }
 
 .owl-next {
-	right: -80px;
+	left: -30px;
 }
 
 .owl-next span, .owl-prev span {
@@ -73,12 +78,12 @@
 	width:         45px;
 	height:        45px;
 	display:       block;
-	color: #1A59F5;
-	font-weight: bold;
+	color:         #1A59F5;
+	font-weight:   bold;
 }
 
 .owl-next span:hover, .owl-prev span:hover {
-	box-shadow: -2px 4px 18px 3px #eee;
+	box-shadow: -2px 4px 25px 9px #eee;
 	transition: all 200ms ease-out;
 }
 
@@ -87,11 +92,12 @@
 	transition: all 200ms ease-out;
 }
 
-button.owl-dot span{
+button.owl-dot span {
 	background-color: #BACDFC !important;
 }
-button.active span{
+
+button.active span {
 	background-color: #1958F5 !important;
-	width: 35px !important;
-	transition: width 400ms ease-in-out;
+	width:            35px !important;
+	transition:       width 400ms ease-in-out;
 }

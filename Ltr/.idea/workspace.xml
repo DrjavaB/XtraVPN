@@ -1,70 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/swiper/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZOYz77y7UkfOIJdwnoptyVOdDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ltr/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../Ltr/index.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\xtravpn\Ltr\assets\js" />
+      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\xtravpn\Ltr\assets\css" />
       <recent name="C:\wamp64\www\XtraVPN\assets\img" />
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\js" />
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\css" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="2d50867d-75cb-4baf-b740-a47d27c54c46" uri="http://localhost:63342/Rtl2/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ltr/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -105,16 +123,76 @@
       <workItem from="1586172379761" duration="13901000" />
       <workItem from="1586191506949" duration="1161000" />
       <workItem from="1586193422825" duration="10287000" />
+      <workItem from="1587373362590" duration="14609000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587373731441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587373731441" />
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584718414236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584718414236" />
+    <state width="1585" height="348" key="GridCell.Tab.0.bottom" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.0.center" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.0.left" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.0.right" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.1.bottom" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state width="1585" height="348" key="GridCell.Tab.1.center" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.1.left" timestamp="1587449155783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155783" />
+    <state width="1585" height="348" key="GridCell.Tab.1.right" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state width="1585" height="348" key="GridCell.Tab.2.bottom" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state width="1585" height="348" key="GridCell.Tab.2.center" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state width="1585" height="348" key="GridCell.Tab.2.left" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state width="1585" height="348" key="GridCell.Tab.2.right" timestamp="1587449155784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1585" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587449155784" />
+    <state x="667" y="255" width="585" height="530" key="find.popup" timestamp="1587447192709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" width="585" height="530" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587447192709" />
   </component>
 </project>
