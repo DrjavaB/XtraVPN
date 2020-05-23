@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blog2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/Blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Swiper.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,7 @@
       <workItem from="1585916959007" duration="8950000" />
       <workItem from="1587449163954" duration="4705000" />
       <workItem from="1587455233188" duration="1040000" />
-      <workItem from="1590171753102" duration="21106000" />
+      <workItem from="1590171753102" duration="32332000" />
     </task>
     <servers />
   </component>

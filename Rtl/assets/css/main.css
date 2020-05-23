@@ -9,10 +9,10 @@
 }
 
 body {
+	overflow-x:hidden;
+	height:100%;
 	background-color: #fafcff1a;
-	overflow-x: hidden;
 }
-
 @font-face {
 	font-family: 'shabnam';
 	src:         url(fonts/Shabnam.eot);
