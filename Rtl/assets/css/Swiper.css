@@ -4,8 +4,11 @@
 	align-items:    center;
 	padding-top:    7rem;
 }
-
-.owl-carousel {
+.owl-item {
+	float: right;
+	padding: 0 1.6rem 0 0;
+}
+.owl-main {
 	width: 60% !important;
 }
 
@@ -25,7 +28,8 @@
 .owl-carousel .item {
 	border:        1px solid #eee;
 	border-radius: 35px;
-	width:         86%;
+	width:         95%;
+	background: #fff;
 }
 
 .owl-carousel .item:hover {
@@ -71,7 +75,7 @@
 }
 
 .owl-next {
-	left: -30px;
+	left: -80px;
 }
 
 .owl-next span, .owl-prev span {
