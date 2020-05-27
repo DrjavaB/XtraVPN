@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/category/mob1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/mob2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/mob3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/category/mob4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/category" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -57,11 +64,11 @@
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\xtravpn\Rtl" />
       <recent name="F:\GitRepository\xtravpn\Rtl\assets\img\category" />
       <recent name="C:\wamp64\www\XtraVPN\assets\img" />
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\img" />
       <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\js" />
-      <recent name="F:\@WebProjects\@WebSites\XtraVPN\assets\css" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.blog">
@@ -112,7 +119,9 @@
       <workItem from="1585916959007" duration="8950000" />
       <workItem from="1587449163954" duration="4705000" />
       <workItem from="1587455233188" duration="1040000" />
-      <workItem from="1590171753102" duration="32332000" />
+      <workItem from="1590171753102" duration="44717000" />
+      <workItem from="1590495195168" duration="1494000" />
+      <workItem from="1590499676326" duration="61000" />
     </task>
     <servers />
   </component>

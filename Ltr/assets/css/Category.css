@@ -1,0 +1,139 @@
+.cateory {
+	display:         flex;
+	justify-content: space-between;
+	align-items:     stretch;;
+	width:           1200px;
+	margin:          10rem auto;
+	flex-direction:  row-reverse;
+}
+
+.main-cat-heading {
+	color:       black;
+	font-weight: bold;
+}
+
+.main-cat {
+	color: white;
+}
+
+.main-cat-box {
+	display:         flex;
+	justify-content: space-between;
+	align-items:     flex-start;
+	flex-direction:  row-reverse;
+}
+
+.main-cat-box:last-child .main-cat-item {
+	width: 33%;
+}
+
+.main-cat-item {
+	margin:        1rem;
+	position:      relative;
+	overflow:      hidden;
+	border-radius: 35px;
+}
+
+.main-cat-item .rect {
+	height: 70px;
+}
+
+.main-cat-img {
+	width: 100%;
+}
+
+.some-post-heading {
+
+}
+
+.some-post {
+	display:         flex;
+	justify-content: space-between;
+	align-items:     flex-start;
+	flex-direction:  column;
+	height:          320px;
+	margin-top:      15%;
+}
+
+.some-post-item a {
+	display:         flex;
+	justify-content: center;
+	align-items:     center;
+	color:           black;
+	flex-direction:  row-reverse;
+}
+
+.some-post-text {
+	position:    relative;
+	top:         7px;
+	font-size:   1.4rem;
+	font-weight: bold;
+}
+
+.some-post-img {
+	width:        100px;
+	margin-right: 2rem;
+}
+
+.main-cat-item a:hover > .rect {
+	bottom:  0;
+	opacity: 1;
+}
+
+@media (max-width: 767px) {
+	.cateory {
+		flex-direction: column;
+		align-items:    center;
+		width:          unset;
+	}
+	
+	.cateory {
+		margin: 7rem auto 4rem;
+	}
+	
+	.main-cat-box {
+		flex-direction: column;
+	}
+	
+	.main-cat-box:last-child .main-cat-item {
+		width: 100%;
+	}
+	
+	.some-post-main {
+		margin-top: 4rem;
+	}
+	
+	.some-post-item {
+		margin-top: 1rem;
+	}
+}
+
+@media (max-width: 992px) {
+	.some-post-img {
+		width:        90px;
+		margin-right: 0.8rem;
+	}
+	
+	.main-cat-item {
+		margin:        5px;
+		border-radius: 25px;
+	}
+	
+	.main-cat {
+		margin-top: 2rem;
+	}
+	
+	.some-post-text {
+		font-size: 1.1rem;
+	}
+}
+
+@media (max-width: 1300px) {
+	.cateory {
+		width: 90%;
+	}
+	
+	.some-post-img {
+		width: 90px;
+	}
+}

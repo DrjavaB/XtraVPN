@@ -24,12 +24,13 @@
 	overflow: hidden;
 	width:    100%;
 	height:   100%;
-	
 }
 
 .night-front {
 	left:  -28vw;
 	width: 140vw;
+	top: 3rem;
+	transform: rotate(-115deg);
 }
 
 .night-back {

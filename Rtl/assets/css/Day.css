@@ -23,12 +23,13 @@
 	overflow: hidden;
 	width: 100%;
 	height: 100%;
-
 }
 
 .day-front {
 	left: -10vw;
 	width: 140vw;
+	top: 3rem;
+	transform: rotate(115deg);
 }
 
 .day-back {

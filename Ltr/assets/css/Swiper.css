@@ -5,17 +5,22 @@
 	padding-top:    7rem;
 }
 
-.owl-carousel {
+.owl-item {
+	float:   left;
+	padding: 0 1.6rem 0 0;
+}
+
+.owl-main {
 	width: 60% !important;
 }
 
 .owl-stage-outer {
-	height:  30rem;
-	padding-left: 20px;
-	display: flex;
-	flex-direction: column;
+	height:          30rem;
+	padding-left:    20px;
+	display:         flex;
+	flex-direction:  column;
 	justify-content: center;
-
+	
 }
 
 .swiper-box img {
@@ -25,11 +30,14 @@
 .owl-carousel .item {
 	border:        1px solid #eee;
 	border-radius: 35px;
-	width:         86%;
+	width:         95%;
+	background:    #fff;
 }
-.owl-carousel .item a{
+
+.owl-carousel .item a {
 	color: black;
 }
+
 .owl-carousel .item:hover {
 	box-shadow: 0 0 30px #ddd;
 	cursor:     pointer;
@@ -42,24 +50,26 @@
 }
 
 .owl-carousel .item div {
-	padding:    0 2rem;
-	height:     250px;
-	overflow:   hidden;
-	margin-top: 1rem;
+	padding:       0 2rem;
+	height:        250px;
+	overflow:      hidden;
+	margin-top:    1rem;
 	border-bottom: 10px inset #ffffff;
 	border-radius: 35px;
 }
+
 .owl-carousel .item div h3 {
 	font-size: 1.4rem;
 }
+
 .owl-carousel .item div p {
 	text-align: justify;
-	font-size: 0.9rem;
+	font-size:  0.9rem;
 }
 
 .owl-next, .owl-prev {
-	position: absolute;
-	bottom:   270px;
+	position:         absolute;
+	bottom:           270px;
 	background-color: transparent !important;
 }
 
@@ -77,8 +87,8 @@
 	width:         45px;
 	height:        45px;
 	display:       block;
-	color: #1A59F5;
-	font-weight: bold;
+	color:         #1A59F5;
+	font-weight:   bold;
 }
 
 .owl-next span:hover, .owl-prev span:hover {
@@ -91,13 +101,14 @@
 	transition: all 200ms ease-out;
 }
 
-button.owl-dot span{
+button.owl-dot span {
 	background-color: #BACDFC !important;
 }
-button.active span{
+
+button.active span {
 	background-color: #1958F5 !important;
-	width: 35px !important;
-	transition: width 400ms ease-in-out;
+	width:            35px !important;
+	transition:       width 400ms ease-in-out;
 }
 
 .owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled {

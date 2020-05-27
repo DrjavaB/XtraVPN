@@ -1,13 +1,14 @@
 $(document).ready(function () {
 	AOS.init();
-	$(".owl-carousel").owlCarousel({
+	$(".owl-main").owlCarousel({
 		nav:                true,
 		dots:               true,
 		autoplay:           true,
 		autoplayTimeout:    5000,
+		smartSpeed:         2000,
 		autoplayHoverPause: true,
 		loop:               true,
-		slideTransition:    'ease-in-out',
+		slideTransition:    'cubic-bezier(0.32,-0.3, 0.7, 1.26)',
 		responsive:         {
 			0:    {
 				items:    1,
@@ -28,6 +29,38 @@ $(document).ready(function () {
 			1200: {
 				items:    3,
 				dotsEach: 3,
+			}
+		}
+	});
+	$(".owl-blog").owlCarousel({
+		nav:                true,
+		dots:               true,
+		autoplay:           true,
+		autoplayTimeout:    4000,
+		smartSpeed:         2000,
+		autoplayHoverPause: true,
+		loop:               true,
+		slideTransition:    'cubic-bezier(0.32,-0.3, 0.7, 1.26)',
+		responsive:         {
+			0:    {
+				items:    1,
+				dotsEach: 1,
+			},
+			576:  {
+				items:    1,
+				dotsEach: 1,
+			},
+			768:  {
+				items:    2,
+				dotsEach: 2,
+			},
+			992:  {
+				items:    2,
+				dotsEach: 2,
+			},
+			1200: {
+				items:    2,
+				dotsEach: 2,
 			}
 		}
 	});
@@ -58,6 +91,23 @@ $(document).ready(function () {
 		}
 	});
 	$('#preloader').hide();
+	if ( $(".article-wrapper")[0] ) {
+		var left  = document.getElementsByClassName('article-left')[0],
+		    right = document.getElementsByClassName('article-right')[0],
+		    prev  = document.getElementsByClassName('article-preview');
+		left.addEventListener('mouseover', function () {
+			prev[0].style.animation = 'anim-left 600ms 300ms ease-in-out forwards';
+		});
+		left.addEventListener('mouseout', function () {
+			prev[0].style.animation = 'anim-left-not 600ms 300ms ease-in-out backwards';
+		});
+		right.addEventListener('mouseover', function () {
+			prev[1].style.animation = 'anim-right 600ms 300ms ease-in-out forwards';
+		});
+		right.addEventListener('mouseout', function () {
+			prev[1].style.animation = 'anim-right-not 600ms 300ms ease-in-out backwards';
+		});
+	}
 });
 
 function expand() {

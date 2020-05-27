@@ -4,10 +4,12 @@
 	align-items:    center;
 	padding-top:    7rem;
 }
+
 .owl-item {
-	float: right;
-	padding: 0 1.6rem 0 0;
+	float:   right;
+	padding: 0 0 0 1.6rem;
 }
+
 .owl-main {
 	width: 60% !important;
 }
@@ -29,7 +31,11 @@
 	border:        1px solid #eee;
 	border-radius: 35px;
 	width:         95%;
-	background: #fff;
+	background:    #fff;
+}
+
+.owl-carousel .item a {
+	color: black;
 }
 
 .owl-carousel .item:hover {
@@ -37,19 +43,17 @@
 	cursor:     pointer;
 	transition: all 200ms ease-out;
 }
-.owl-carousel .item a{
-	color: black;
-}
+
 .owl-carousel .item:not(:hover) {
 	box-shadow: 0 0 0 #ddd;
 	transition: all 200ms ease-out;
 }
 
 .owl-carousel .item div {
-	padding:    0 2rem;
-	height:     250px;
-	overflow:   hidden;
-	margin-top: 1rem;
+	padding:       0 2rem;
+	height:        250px;
+	overflow:      hidden;
+	margin-top:    1rem;
 	border-bottom: 10px inset #ffffff;
 	border-radius: 35px;
 }
@@ -107,6 +111,7 @@ button.active span {
 	width:            35px !important;
 	transition:       width 400ms ease-in-out;
 }
+
 .owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled {
 	display: block !important;
 }

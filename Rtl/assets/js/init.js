@@ -93,21 +93,23 @@ $(document).ready(function () {
 		}
 	});
 	$('#preloader').hide();
-	var left  = document.getElementsByClassName('article-left')[0],
-	    right = document.getElementsByClassName('article-right')[0],
-	    prev  = document.getElementsByClassName('article-preview');
-	left.addEventListener('mouseover', function () {
-		prev[0].style.animation = 'anim-left 600ms 300ms ease-in-out forwards';
-	});
-	left.addEventListener('mouseout', function () {
-		prev[0].style.animation = 'anim-left-not 600ms 300ms ease-in-out backwards';
-	});
-	right.addEventListener('mouseover', function () {
-		prev[1].style.animation = 'anim-right 600ms 300ms ease-in-out forwards';
-	});
-	right.addEventListener('mouseout', function () {
-		prev[1].style.animation = 'anim-right-not 600ms 300ms ease-in-out backwards';
-	});
+	if ( $(".article-wrapper")[0] ) {
+		var left  = document.getElementsByClassName('article-left')[0],
+		    right = document.getElementsByClassName('article-right')[0],
+		    prev  = document.getElementsByClassName('article-preview');
+		left.addEventListener('mouseover', function () {
+			prev[0].style.animation = 'anim-left 600ms 300ms ease-in-out forwards';
+		});
+		left.addEventListener('mouseout', function () {
+			prev[0].style.animation = 'anim-left-not 600ms 300ms ease-in-out backwards';
+		});
+		right.addEventListener('mouseover', function () {
+			prev[1].style.animation = 'anim-right 600ms 300ms ease-in-out forwards';
+		});
+		right.addEventListener('mouseout', function () {
+			prev[1].style.animation = 'anim-right-not 600ms 300ms ease-in-out backwards';
+		});
+	}
 });
 
 function expand() {

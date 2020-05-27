@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="" />
+    <list default="true" id="570f9682-22c5-4834-8723-544cd8fbb3bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Blog2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/_Blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/GroupDay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/GroupNight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/box4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob-cat4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/category/mob4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/Category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/css/Category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/GroupDay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/GroupNight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/box-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/box3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/box4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/mob-cat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/mob-cat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/mob-cat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rtl/assets/img/category/mob-cat4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Day.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Day.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Night.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Swiper.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Swiper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Day.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Day.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Night.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/css/Swiper.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/css/Swiper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/img/GroupDay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/img/GroupNight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/assets/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/assets/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rtl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Rtl/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,13 +94,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rtl/assets/css/Category.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../Rtl/assets/css/Category.css" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -111,6 +167,9 @@
       <workItem from="1587373362590" duration="14609000" />
       <workItem from="1587454123806" duration="542000" />
       <workItem from="1587456282879" duration="1284000" />
+      <workItem from="1590499755849" duration="1924000" />
+      <workItem from="1590570734570" duration="7037000" />
+      <workItem from="1590582381083" duration="1647000" />
     </task>
     <servers />
   </component>
@@ -129,6 +188,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584718414236" />
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="DiffContextDialog" timestamp="1590582296826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590582296826" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590582232846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590582232846" />
     <state width="1573" height="348" key="GridCell.Tab.0.bottom" timestamp="1587454666087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,9 +244,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1573" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587454666087" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1590578998572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590578998572" />
     <state x="667" y="255" width="585" height="530" key="find.popup" timestamp="1587447192709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="255" width="585" height="530" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587447192709" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590582229698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590582229698" />
   </component>
 </project>

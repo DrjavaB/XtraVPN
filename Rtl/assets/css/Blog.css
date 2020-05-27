@@ -35,7 +35,7 @@
 
 .article-wrapper {
 	position: relative;
-	top:      8rem;
+	top:      10rem;
 }
 
 .article-box {
@@ -70,16 +70,15 @@
 
 .article-arrow {
 	position: absolute;
-	
-	top:      23px;
+	top:      -45px;
 }
 
 .article-arrow.right {
-	left: 15px;
+	left: 0px;
 }
 
 .article-arrow.left {
-	right: 15px;
+	right: 0px;
 }
 
 .article-right {
